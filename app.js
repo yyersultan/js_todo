@@ -60,6 +60,8 @@ function deleteCheck(e){
     }
 }
 
+console.log("Todo renders");
+
 function filterTodo(e){
     const todos = todoList.childNodes;
     
